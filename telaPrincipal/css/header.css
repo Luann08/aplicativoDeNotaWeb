@@ -12,7 +12,7 @@ body {
 #celular {
     padding: 10px;
     
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 20px;
     display: grid;
     grid-template-columns: 350px;
